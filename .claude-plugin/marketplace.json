@@ -5,8 +5,7 @@
     "url": "https://myweirdprompts.com"
   },
   "metadata": {
-    "description": "Official Claude Code plugins for the My Weird Prompts podcast.",
-    "homepage": "https://myweirdprompts.com/agents/"
+    "description": "Official Claude Code plugins for the My Weird Prompts podcast."
   },
   "plugins": [
     {
