@@ -25,7 +25,7 @@ PLUGIN_JSON = ROOT / "plugins" / "mwp-skills" / ".claude-plugin" / "plugin.json"
 
 
 def fetch(url: str) -> bytes:
-    req = urllib.request.Request(url, headers={"User-Agent": "mwp-claude-plugins-sync"})
+    req = urllib.request.Request(url, headers={"User-Agent": "mwp-agent-skills-sync"})
     with urllib.request.urlopen(req, timeout=30) as r:
         return r.read()
 

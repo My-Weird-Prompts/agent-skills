@@ -7,7 +7,13 @@
     "url": "https://myweirdprompts.com"
   },
   "homepage": "https://myweirdprompts.com/agents/",
-  "repository": "https://github.com/My-Weird-Prompts/claude-plugins",
+  "repository": "https://github.com/My-Weird-Prompts/agent-skills",
   "license": "CC-BY-4.0",
-  "keywords": ["podcast", "my-weird-prompts", "transcripts", "episodes"]
+  "keywords": [
+    "podcast",
+    "my-weird-prompts",
+    "transcripts",
+    "episodes",
+    "agent-skills"
+  ]
 }
