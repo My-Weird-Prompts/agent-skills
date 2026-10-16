@@ -1,0 +1,20 @@
+{
+  "name": "my-weird-prompts",
+  "owner": {
+    "name": "My Weird Prompts",
+    "url": "https://myweirdprompts.com"
+  },
+  "metadata": {
+    "description": "Official Claude Code plugins for the My Weird Prompts podcast.",
+    "homepage": "https://myweirdprompts.com/agents/"
+  },
+  "plugins": [
+    {
+      "name": "mwp-skills",
+      "source": "./plugins/mwp-skills",
+      "description": "Official My Weird Prompts agent skills: find episodes, read transcripts, get episode audio and RSS feeds, and help someone send the show a prompt.",
+      "category": "productivity",
+      "homepage": "https://myweirdprompts.com/agents/"
+    }
+  ]
+}

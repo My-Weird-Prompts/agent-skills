@@ -1,0 +1,13 @@
+{
+  "name": "mwp-skills",
+  "version": "1.0.0",
+  "description": "Official My Weird Prompts agent skills: find episodes, read transcripts, get episode audio and RSS feeds, and help someone send the show a prompt.",
+  "author": {
+    "name": "Daniel Rosehill",
+    "url": "https://myweirdprompts.com"
+  },
+  "homepage": "https://myweirdprompts.com/agents/",
+  "repository": "https://github.com/My-Weird-Prompts/claude-plugins",
+  "license": "CC-BY-4.0",
+  "keywords": ["podcast", "my-weird-prompts", "transcripts", "episodes"]
+}
